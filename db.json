@@ -1,3 +1,21 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "testing #1",
+      "description": "this was a tezt",
+      "id": 1
+    },
+    {
+      "title": "testing userId",
+      "description": "did it work?",
+      "userId": "112191158713670902769",
+      "id": 4
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "didn't see that coming",
+      "userId": "112191158713670902769",
+      "id": 5
+    }
+  ]
 }
